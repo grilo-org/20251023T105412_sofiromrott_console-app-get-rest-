@@ -1,0 +1,201 @@
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.exe
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.deps.json
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.runtimeconfig.json
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.dll
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ref\ConsoleAppGET.dll
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.pdb
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.AssemblyReference.cache
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfoInputs.cache
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfo.cs
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CopyComplete
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.dll
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ref\ConsoleAppGET.dll
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.pdb
+C:\Users\Jose Luis\source\repos\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.genruntimeconfig.cache
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.exe
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.deps.json
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.runtimeconfig.json
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ref\ConsoleAppGET.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.pdb
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.AssemblyReference.cache
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfoInputs.cache
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfo.cs
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CoreCompileInputs.cache
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CopyComplete
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ref\ConsoleAppGET.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.pdb
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.genruntimeconfig.cache
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+G:\Desktop\Documentos Varios\ISTEA\Aplicaciones Web Servidor\API\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\PayPalCoreSDK.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.exe
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.deps.json
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.runtimeconfig.json
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.pdb
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\PayPalCoreSDK.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfo.cs
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CopyComplete
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\refint\ConsoleAppGET.dll
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.pdb
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.genruntimeconfig.cache
+C:\Users\User\Downloads\ConsoleAppGET (1)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ref\ConsoleAppGET.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfo.cs
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\refint\ConsoleAppGET.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.pdb
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.exe
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.deps.json
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.runtimeconfig.json
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.pdb
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\PayPalCoreSDK.dll
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CopyComplete
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.genruntimeconfig.cache
+C:\Users\User\Downloads\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ref\ConsoleAppGET.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.exe
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.deps.json
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.runtimeconfig.json
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\ConsoleAppGET.pdb
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\bin\Debug\net6.0\PayPalCoreSDK.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.AssemblyInfo.cs
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.csproj.CopyComplete
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\refint\ConsoleAppGET.dll
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.pdb
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ConsoleAppGET.genruntimeconfig.cache
+C:\Users\User\Desktop\ConsoleAppGET (con rest)\ConsoleAppGET\ConsoleAppGET\obj\Debug\net6.0\ref\ConsoleAppGET.dll
